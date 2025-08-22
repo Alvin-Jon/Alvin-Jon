@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Alvin-Jon
-- 👀 I’m interested in Programming ...
-- 🌱 I’m currently learning Node.js...
-- 💞️ I’m looking to collaborate on any project involving javascript ...
-- 📫 How to reach me ingbianjonathan@gmail.com ...
+👋 Hi, I’m @Alvin-Jon — a passionate developer who loves solving problems with code.
+
+💻 I’m skilled in MERN stack and have built several full-stack projects (currently kept private for team and work reasons).
+
+🤝 I enjoy working on real-world projects — friends and colleagues know where the good stuff lives 😉.
+
+🧠 I’m currently diving deep into Python, exploring AI and Machine Learning to expand my toolkit beyond web development.
+
+👀 I’m interested in projects involving JavaScript, React, Node.js, and now, anything AI-powered.
+
+💞️ Open to collaborating on open-source, startups, or any project that challenges me to grow.
+
+📫 Reach me at ingbianjonathan@gmail.com — always happy to chat or brainstorm!
 
 <!---
 Alvin-Jon/Alvin-Jon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
