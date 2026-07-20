@@ -35,7 +35,6 @@ I'm a backend-focused full-stack engineer passionate about building software tha
 
 ### Backend
 
-<p align="left">
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -46,7 +45,7 @@ I'm a backend-focused full-stack engineer passionate about building software tha
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B00?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
-</p>
+
 
 
 ---
