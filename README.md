@@ -150,24 +150,13 @@ A multiplayer word game built as a passion project to explore game development a
 
 ---
 
-# 🌱 Currently Exploring
-
-- Go
-- Cloud Computing
-- Distributed Systems
-- Low-Latency Systems
-- System Design
-- AI Engineering
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username==Alvin-Jon&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username==Alvin-Jon&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -175,7 +164,7 @@ A multiplayer word game built as a passion project to explore game development a
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvin-Jon&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -185,7 +174,7 @@ A multiplayer word game built as a passion project to explore game development a
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin-Jon&theme=github-compact"/>
 
 </p>
 
@@ -195,7 +184,7 @@ A multiplayer word game built as a passion project to explore game development a
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Alvin-Jon&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
