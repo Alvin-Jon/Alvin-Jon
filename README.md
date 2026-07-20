@@ -112,44 +112,6 @@ Technologies
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚚 Wakarry
-
-A technology platform building the future of parcel delivery through location-aware matching and efficient logistics.
-
-**Highlights**
-
-- Fastify Backend
-- PostgreSQL
-- PostGIS
-- React Native
-- Expo
-- TypeScript
-
----
-
-## ♻️ WasteSort
-
-An AI-powered smart waste management platform combining IoT devices, cloud infrastructure, and computer vision.
-
-**Highlights**
-
-- Node.js
-- MongoDB
-- MQTT
-- ESP32
-- Python
-- Computer Vision
-
----
-
-## 🎮 Word War
-
-A multiplayer word game built as a passion project to explore game development and real-time interactions.
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -177,27 +139,6 @@ A multiplayer word game built as a passion project to explore game development a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvin-Jon&theme=github-compact"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alvin-Jon&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📚 What I'm Learning
-
-- ☁️ Cloud Architecture
-- ⚙️ Distributed Systems
-- 🦫 Go
-- 🤖 Artificial Intelligence
-- 🏗️ System Design
-- 🚀 High-Performance Backend Engineering
 
 ---
 
