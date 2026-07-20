@@ -36,16 +36,18 @@ I'm a backend-focused full-stack engineer passionate about building software tha
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,fastify,express,redis,kafka,jest" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B00?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
 </p>
 
-**Other Backend Technologies**
-
-- BullMQ
-- REST APIs
-- Event-Driven Architecture
-- WebSockets
-- MQTT
 
 ---
 
@@ -100,6 +102,7 @@ Deployment
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
 </p>
 
 Technologies
